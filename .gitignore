@@ -40,3 +40,11 @@ build/
 .idea/
 *.swp
 *.swo
+
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+game_of_life
+
