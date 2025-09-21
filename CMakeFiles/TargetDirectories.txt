@@ -1,3 +1,0 @@
-/Users/martinyork/Documents/Agent2/CMakeFiles/game_of_life.dir
-/Users/martinyork/Documents/Agent2/CMakeFiles/edit_cache.dir
-/Users/martinyork/Documents/Agent2/CMakeFiles/rebuild_cache.dir
